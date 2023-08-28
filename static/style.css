@@ -2,7 +2,7 @@
     align: center;
 }
 #url{
-    align: center;
+    align-items: center;
     size: 100px;
     height: 50px;
     width: 600px;
@@ -46,9 +46,11 @@
     font-style: inherit;
     margin-top: 3%;
     margin-left: 25%;
+    background-color: #3cb0fd;
 
 }
 .center{
     font-family: "American Typewriter";
     font-size: 40px;
+    background-color: #3cb0fd;
 }
